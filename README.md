@@ -10,6 +10,8 @@ Per iniziare a lavorare su un esercizio:
 2. Nella pagina che si apre, clicca sul pulsante blu **"Usa modello"** (in alto a destra).
 3. Verrà creata automaticamente una copia del file all'interno del tuo spazio personale **Google Drive**, pronta per essere modificata.
 
+**Consiglio:** Per non perdere questa pagina, ti suggeriamo di aprire i link in una nuova scheda facendo **Ctrl + Clic** (su Windows) o **Cmd + Clic** (su Mac), oppure cliccando con la **rotellina del mouse**.
+
 ---
 
 ## Elenco degli Esercizi
