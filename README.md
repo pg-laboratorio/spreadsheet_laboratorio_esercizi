@@ -1,6 +1,6 @@
-# Esercitazioni Spreadsheet
+# Esercitazioni Spreadsheet (Fogli di calcolo)
 
-**Fogli di Calcolo**: Questo materiale è pensato per lo svolgimento in autonomia delle esercitazioni e per il controllo dei risultati tramite le relative soluzioni.
+Questo materiale è pensato per lo svolgimento in autonomia delle esercitazioni e per il controllo dei risultati tramite le relative soluzioni.
 
 ## Come utilizzare questo Repository
 
