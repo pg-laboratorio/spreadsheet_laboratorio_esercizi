@@ -1,6 +1,6 @@
 # Esercitazioni Spreadsheet
 
-Benvenuti nel repository dedicato agli esercizi di utilizzo dei **Fogli di Calcolo**. Questo materiale è pensato per lo svolgimento in autonomia delle esercitazioni e per il controllo dei risultati tramite le relative soluzioni.
+**Fogli di Calcolo**: Questo materiale è pensato per lo svolgimento in autonomia delle esercitazioni e per il controllo dei risultati tramite le relative soluzioni.
 
 ## Come utilizzare questo Repository
 
@@ -40,3 +40,11 @@ Per iniziare a lavorare su un esercizio:
 * **Argomenti trattati:** Funzioni `TESTO` · `DATA` · `SOMMA.PIÙ.SE`
 * **Esercizio:** [Apri Anteprima Modello](https://docs.google.com/spreadsheets/d/19abXku0X4OwHvqk0jpnSrEagQyXwqpgT/template/preview)
 * **Soluzione:** [Apri Anteprima Modello](https://docs.google.com/spreadsheets/d/14J8-BiNg20s6WleC0kfNuhZiNGW3twn_/template/preview)
+
+---
+## Esercizio finale di Riepilogo
+
+* **Esercizio:** [Apri Anteprima Modello](https://docs.google.com/spreadsheets/d/1p9hfgJbsbLbIJ5ZXYpLklOxc0AKA9RKu/template/preview)
+* **Soluzione:** [Apri Anteprima Modello](https://docs.google.com/spreadsheets/d/13FAWNxs3Jv05IP53gSj_omQuMNMdM1XW/template/preview)
+
+
